@@ -1,0 +1,20 @@
+{
+  "simple": [
+    {
+      "title": "home",
+      "path": "/home"
+    },
+    {
+      "title": "Orders",
+      "path": "/orders"
+    },
+    {
+      "title": "Catalog",
+      "path": "/catalog"
+    },
+    {
+      "title": "Storefront",
+      "path": "/storefront"
+    }
+  ]
+}
