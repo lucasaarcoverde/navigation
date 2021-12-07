@@ -1,20 +1,86 @@
 {
-  "simple": [
+  "client": [
     {
-      "title": "home",
-      "path": "/home"
+      "title": "Dashboard",
+      "path": "/dashboard",
+      "content": "Dashboard Content"
     },
     {
       "title": "Orders",
-      "path": "/orders"
+      "path": "/orders",
+      "content": "Orders Content"
     },
     {
       "title": "Catalog",
-      "path": "/catalog"
+      "path": "/catalog",
+      "content": "Catalog Content"
+    },
+    {
+      "title": "Promotions",
+      "path": "/promotions",
+      "content": "Promotions Content"      
     },
     {
       "title": "Storefront",
-      "path": "/storefront"
+      "path": "/storefront",
+      "content": "Storefront Content"
+    },
+    {
+      "title": "Shipping",
+      "path": "/shipping",
+      "content": "Shipping Content"
+    },
+    {
+      "title": "Marketplace",
+      "path": "/marketplace",
+      "content": "Marketplace Content"
+    },
+    {
+      "title": "App Store",
+      "path": "/apps",
+      "content": "App Store Content"
+    },
+    {
+      "title": "Settings",
+      "path": "/settings",
+      "content": "Settings Content"
+    }
+  ],
+  "seller": [
+    {
+      "title": "Getting Started",
+      "path": "/docs",
+      "content": "Getting Started Content"
+    },
+    {
+      "title": "Home",
+      "path": "/home",
+      "content": "Home Content"
+    },
+    {
+      "title": "Orders",
+      "path": "/orders",
+      "content": "Orders Content"
+    },
+    {
+      "title": "Catalog",
+      "path": "/catalog",
+      "content": "Catalog Content"
+    },
+    {
+      "title": "Shipping",
+      "path": "/shipping",
+      "content": "Shipping Content"
+    },
+    {
+      "title": "App Store",
+      "path": "/apps",
+      "content": "App Store Content"
+    },
+    {
+      "title": "Settings",
+      "path": "/settings",
+      "content": "Settings Content"
     }
   ]
 }
